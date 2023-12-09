@@ -19,4 +19,4 @@ server:
   port: 8081
 
 custom:
-  message: Good bye, Spring!
+  message: Good bye, Spring Bus!
